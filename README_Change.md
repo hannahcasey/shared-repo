@@ -26,3 +26,5 @@ teach minions how to code
 
 topicA change 1
 topic A change 2
+
+topicA change 3

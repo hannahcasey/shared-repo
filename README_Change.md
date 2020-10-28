@@ -1,5 +1,5 @@
 # shared-repo
-Shared repository for coding club :)
+Our amazing shared repository for coding club :)
 
 Hellooo Laura!
 Helloooo Hannah! :D 
